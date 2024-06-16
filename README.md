@@ -1,6 +1,4 @@
-## Olá 🦋
-
-Meu nome é Thaynara Castelo
+## Olá, meu chamo Thaynara 🦋
 
 - Estou estudando na [Alura](https://alura.com.br)
 - Estou aprendendo a linguagem de JavaScript
